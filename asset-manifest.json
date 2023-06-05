@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newone/static/css/main.fe927caf.css",
+    "main.js": "/newone/static/js/main.1af8dcf6.js",
+    "static/js/787.4b24f717.chunk.js": "/newone/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/newone/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/newone/index.html",
+    "main.fe927caf.css.map": "/newone/static/css/main.fe927caf.css.map",
+    "main.1af8dcf6.js.map": "/newone/static/js/main.1af8dcf6.js.map",
+    "787.4b24f717.chunk.js.map": "/newone/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.1af8dcf6.js"
+  ]
+}
